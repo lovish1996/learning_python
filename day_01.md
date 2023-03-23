@@ -67,6 +67,6 @@ comment
 1. Write a function to print first name in the format `My first name is {first_name}`. [Solution](https://github.com/lovish1996/learning_python/blob/main/first_name.py)
 2. Write functions in a single file to add, subtract, multiply, and divide two numbers. [Solution](https://github.com/lovish1996/learning_python/blob/main/basic_calculator.py)
 3. In main function, read the `first_name` and `last_name` of all the family members from your family and print their name in format `Hey, how are you doing {first_name} {last_name}?` using a defined function. [Solution](https://github.com/lovish1996/learning_python/blob/main/family_names.py)
-4. Use add, subtract, multiply, divide functions in Exercise 2. to create a new function `calculator(first_number, second_number, operator)`. Test your code.
+4. Use add, subtract, multiply, divide functions in Exercise 2. to create a new function `calculator(first_number, second_number, operator)`. Test your code. [Solution](https://github.com/lovish1996/learning_python/blob/main/enhanced_calculator.py)
 
 
