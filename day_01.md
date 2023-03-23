@@ -63,7 +63,10 @@ comment
 - Enter the content [functions.py](https://github.com/lovish1996/learning_python/blob/main/functions.py)
 - Run command `$ python3 functions.py` to execute the contents of the file or use `green icon` next to main function in `PyCharm`.
 
-
-
+#### Exercises:
+1. Write a function to print first name in the format `My first name is {first_name}`.
+2. Write functions in a single file to add, subtract, multiply, and divide two numbers.
+3. In main function, read the `first_name` and `last_name` of all the family members from your family and print their name in format `Hey, how are you doing {first_name} {last_name}?` using a defined function.
+4. Use add, subtract, multiply, divide functions in Exercise 2. to create a new function `calculator(first_number, second_number, operator)`. Test your code.
 
 
