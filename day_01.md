@@ -58,6 +58,15 @@ comment
 - Enter the content [input_output.py](https://github.com/lovish1996/learning_python/blob/main/input_output.py)
 - Run command `$ python3 input_output.py` to execute the contents of the file.
 
+#### Operators
+- Python has a number of operators:
+  - `+`: Addition
+  - `-`: Subtraction
+  - `*`: Multiplication
+  - `/`: Division
+  - `//`: Integer division
+  - `**`: Exponentiation
+
 #### Writing functions and using main function
 - Create a new file called `functions.py`
 - Enter the content [functions.py](https://github.com/lovish1996/learning_python/blob/main/functions.py)
