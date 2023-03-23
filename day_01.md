@@ -55,7 +55,7 @@ comment
 #### Input-Output in PyCharm
 - Create a new file by right-clicking on `your_project` in `PyCharm` `Project Structure/ Hierarchy`.
   - `Right click on your_project --> New --> Python File --> first.py`
-- Enter the content [input_output.py](https://github.com/lovish1996/learning_python/blob/main/01_01.py)
+- Enter the content [input_output.py](https://github.com/lovish1996/learning_python/blob/main/input_output.py)
 - Run command `$ python3 input_output.py` to execute the contents of the file.
 
 
