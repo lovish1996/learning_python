@@ -3,6 +3,7 @@
 - Use `option + command + L` for correcting indentation on `MAC` and `alt + ctrl + L` on `Windows`.
 
 #### Data types Python V/s C++
+Refer [data_types.py](https://github.com/lovish1996/learning_python/blob/main/data_types.py) for more sample definitions.
 - **integer**: `x = 10` V/s `int x = 10;`
 - **float**: `x = 10.2345` V/s `float y = 10.2345;`
 - **double**: Python does not have double V/s `double x = 2019.1526;`
@@ -32,7 +33,7 @@ int method_name(parameter_1, parameter_2){
 ```
 
 #### If-else and nested if-else in Python V/s C++
-- In Python, we use combinations of `if`, `elif` and `else` to make a ladder of nested if-else statements or simulate switch statements.
+- In Python, we use combinations of `if`, `elif` and `else` to make a ladder of nested if-else statements or simulate switch statements. Refer [if_else.py](https://github.com/lovish1996/learning_python/blob/main/if_else.py) for more details.
 ```
 x = int(input('Enter an integer:'))
 if x > 1:
@@ -93,3 +94,23 @@ switch(lang){
 }
 ```
   
+#### Boolean expressions and short-circuit
+- `and`:
+  - True and True = True
+  - True and False = False
+  - False and True = False    `1 > 3 and 2 < 4 = False because 1 < 3 will never check 2 < 4`
+  - False and False = False   `1 > 3 and 2 > 4 = False because 1 < 3 will never check 2 > 4`
+- `or`:
+  - True or True = True       `1 < 3 or 2 < 4 = True because 1 < 3 will never check 2 < 4`
+  - True or False = True      `1 < 3 or 2 > 4 = True because 1 < 3 will never check 2 > 4`
+  - False or True = True
+  - False or False = False 
+- `not`:
+  - not (1 > 3) = True
+  - not (1 < 3) =  False
+
+#### For Loop
+- Refer [for_loop.py](https://github.com/lovish1996/learning_python/blob/main/for_loop.py) for sample definitions.
+
+#### While Loop
+- Refer [while_loop.py](https://github.com/lovish1996/learning_python/blob/main/while_loop.py) for sample definitions.
