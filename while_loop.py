@@ -1,5 +1,10 @@
-# int i = 5;
-# while(i>=0){cout << i << endl; i--;}
+'''
+int i = 5;
+while(i >= 0){
+    cout << i << endl;
+    i--;
+}
+'''
 def while_loop():
     i = 5
     while i >= 0:
