@@ -146,3 +146,14 @@ def while_loop():
         print(i)  # 5 4 3 2 1 0
         i -= 1
 ```
+
+#### Exercises:
+1. Write a program to accept percentage from the user and display the grade according to the following criteria:
+  - Marks > 90 : `Grade A`
+  - Marks > 80 and <= 90: `Grade B`
+  - Marks >= 60 and <= 80: `Grade C`
+  - Below 60: `Grade D`
+2. Write a program to accept a number from 1 to 7 and display the name of the day like 1 for `Sunday`, 2 for `Monday` and so on.
+3. Print sum of all even numbers from 10 to 20 using for loop.
+4. Calculate the square of all the odd numbers from 1 to 11 and print them.
+5. Check how many times a given number can be divided by 3 before it is less than or equal to 10.
