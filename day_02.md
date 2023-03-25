@@ -154,6 +154,6 @@ def while_loop():
   - Marks >= 60 and <= 80: `Grade C`
   - Below 60: `Grade D`
 2. Write a program to accept a number from 1 to 7 and display the name of the day like 1 for `Sunday`, 2 for `Monday` and so on. [Solution](https://github.com/lovish1996/learning_python/blob/main/weekday.py)
-3. Print sum of all even numbers from 10 to 20 using for loop. [Solution]()
-4. Calculate the square of all the odd numbers from 1 to 11 and print them. [Solution]()
-5. Check how many times a given number can be divided by 3 before it is less than or equal to 10. [Solution]()
+3. Print sum of all even numbers from 10 to 20 using for loop. [Solution](https://github.com/lovish1996/learning_python/blob/main/sum_10_to_20.py)
+4. Calculate the square of all the odd numbers from 1 to 11 and print them. [Solution](https://github.com/lovish1996/learning_python/blob/main/calculate_squares.py)
+5. Check how many times a given number can be divided by 3 before it is less than or equal to 10. [Solution](https://github.com/lovish1996/learning_python/blob/main/division_by_3.py)
